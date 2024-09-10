@@ -1,0 +1,6 @@
+js {
+    console.log("Within a SQLX");
+    external_clients.clients.map(client => {
+        console.log(client)
+    })
+}

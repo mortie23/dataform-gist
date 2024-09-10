@@ -1,0 +1,5 @@
+dataformCoreVersion: 3.0.2
+defaultProject: prj-xyz-dev-fruit-0
+defaultLocation: australia-southeast1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
