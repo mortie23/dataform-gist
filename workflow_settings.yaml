@@ -3,3 +3,5 @@ defaultProject: prj-xyz-dev-fruit-0
 defaultLocation: australia-southeast1
 defaultDataset: dataform
 defaultAssertionDataset: dataform_assertions
+vars:
+  ref: ref_schema

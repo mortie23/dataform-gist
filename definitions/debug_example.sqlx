@@ -1,0 +1,13 @@
+config {
+  type: "table",
+  name: "debug_example",
+  schema: dataform.projectConfig.vars.ref,
+}
+
+js {
+    // Place this where you need to debug
+    debugger;
+    const simple_sql = `select 'hello world' as test_column`
+}
+
+${ simple_sql }
